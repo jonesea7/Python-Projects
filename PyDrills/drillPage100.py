@@ -5,6 +5,7 @@
 #				the script should print the qualifying file names and time-stamps to the console for the user.
 #	
 #   Note:       I will create a directory with at least two 'txt' files to see if this script actually works.
+#               I have included the link to the directory on GitHub.
 #
 #	File:		drillPage100.py
 #
